@@ -1,4 +1,5 @@
 ### Hi there 👋
+During the time in my bootcamp program with Promineo Tech, I have learned JavaScript and variables and will continue to learn about the fundamentals and programs in Front-End Software Development such as Bootstrap, React, Rest, AWS, OOP, AJAX, HTML, CSS, NPM, Debugging, Duplicating codes using design patterns.
 
 <!--
 **Brim1530/Brim1530** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
